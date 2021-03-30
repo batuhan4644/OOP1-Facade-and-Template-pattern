@@ -1,0 +1,14 @@
+C:\Users\batuh\source\repos\yolculuk\yolculuk\obj\Debug\yolculuk.csprojAssemblyReference.cache
+C:\Users\batuh\source\repos\yolculuk\yolculuk\obj\Debug\yolculuk.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\yolculuk\yolculuk\bin\Debug\yolculuk.exe.config
+C:\Users\batuh\source\repos\yolculuk\yolculuk\bin\Debug\yolculuk.exe
+C:\Users\batuh\source\repos\yolculuk\yolculuk\bin\Debug\yolculuk.pdb
+C:\Users\batuh\source\repos\yolculuk\yolculuk\obj\Debug\yolculuk.exe
+C:\Users\batuh\source\repos\yolculuk\yolculuk\obj\Debug\yolculuk.pdb
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\bin\Debug\yolculuk.exe.config
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\bin\Debug\yolculuk.exe
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\bin\Debug\yolculuk.pdb
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\obj\Debug\yolculuk.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\obj\Debug\yolculuk.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\obj\Debug\yolculuk.exe
+C:\Users\batuh\Desktop\Yeni klasör\yolculuk\yolculuk\obj\Debug\yolculuk.pdb
