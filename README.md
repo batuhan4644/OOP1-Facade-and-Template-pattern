@@ -1,1 +1,1 @@
-# OOP1-Facade-ve-Template-pattern
+# OOP1-Facade-and-Template-pattern
